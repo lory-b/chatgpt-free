@@ -39,10 +39,10 @@
 
 | **站点名称**         | **支持版本**         | **免费额度**         | **独特功能**               | **访问稳定性** |
 |----------------------|---------------------|----------------------|---------------------------|---------------|
-| [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-4o, Claude3 | 每小时 80 次（GPT-4o）     | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐       |
-| [gptcat.net](https://gptcat.net)        | GPT-4, Claude3        | 有限免费（每天 20 次）      | 高级语音对话功能            | ⭐⭐⭐⭐        |
+| [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-4o| 注册后试用5次     | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐       |
+| [gptcat.net](https://gptcat.net)        | GPT-4, Claude3        | 有限免费（每天 10 次）      | 高级语音对话功能            | ⭐⭐⭐⭐        |
 | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47)    | GPT-4, GPT-3.5        | 有                         | API 调用，适合开发者         | ⭐⭐⭐⭐        |
-| [gptdog.online](https://gptdog.online)  | GPT-3.5               | 无限                       | 界面简单，新手友好           | ⭐⭐⭐         |
+| [gptdog.online](https://gptdog.online)  | GPT-3.5               | 无                       | 界面简单，新手友好           | ⭐⭐⭐         |
 
 ### **推荐理由**
 - **`snakegpt.work`**：支持 GPT-4 和 Claude3，功能最强，适合深度用户。
